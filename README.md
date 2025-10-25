@@ -135,7 +135,10 @@ Added Points on Stylistic Overriding:
 
 ## Comparision:
 
+
 The final generated image is a perfect visual representation of the refined prompt, successfully achieving the requested transformation.
+
+
 
 <img width="962" height="660" alt="Screenshot 2025-10-14 111307" src="https://github.com/user-attachments/assets/5dce68e4-88a4-47a7-b84d-65b88039bed1" />
 
